@@ -1,6 +1,7 @@
 # RoyalRetreats
 
 ## 🔗 Links
+- 🌐 [Live Demo](https://royalretreats-fullstack.onrender.com/listings)
 - 🎥 [Project Demo Video](https://drive.google.com/file/d/15G1pl08kyNlF5VNXd9IOHjBA40MCIxWq/view?usp=sharing)
 - 📊 [Project PPT](https://docs.google.com/presentation/d/1sNSSRQXeczn8AkOA2ZIRBSWqDmIIaLPP-e2vF9T0IK4/edit?usp=sharing)
 
