@@ -127,11 +127,3 @@ You can use the following Razorpay test card details to simulate payments in the
 This full-stack project is developed for personal learning and demonstration purposes only.
 
 
-## Connect with me
-
-Feel free to connect with me:
-
-- GitHub: [jeffrin-samuel](https://github.com/jeffrin-samuel)  
-- LinkedIn: [Jeffrin Samuel](https://www.linkedin.com/in/jeffrin-samuel-236452210/)  
-- Email: [jeffrinsamuel2006@gmail.com](mailto:jeffrinsamuel2006@gmail.com)
-
