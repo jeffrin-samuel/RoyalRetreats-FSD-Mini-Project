@@ -1,5 +1,18 @@
 # RoyalRetreats
 
+## 🔗 Links
+- 🎥 [Project Demo Video](https://drive.google.com/file/d/15G1pl08kyNlF5VNXd9IOHjBA40MCIxWq/view?usp=sharing)
+- 📊 [Project PPT](https://docs.google.com/presentation/d/1sNSSRQXeczn8AkOA2ZIRBSWqDmIIaLPP-e2vF9T0IK4/edit?usp=sharing)
+
+## 👥 Team Members
+
+- Jeffrin Nadar - Team Leader (10677)  
+- Stephen Nadar (10679)  
+- Joel Varghese (10664)
+- Umar Modak (10679)
+
+---
+
 An Airbnb-inspired full-stack vacation rental platform built with Node.js, Express.js, MongoDB, EJS, HTML, CSS, Bootstrap & JavaScript. RoyalRetreats offers seamless property listings, bookings, wishlists, 
 user authentication/authorization, automated email notifications powered by Nodemailer & secure payment integration using Razorpay.
 
@@ -108,6 +121,8 @@ ROYALRETREATS/
 ├── package.json
 └── schema.js
 
+---
+
 ## Testing Payments with Razorpay
 
 You can use the following Razorpay test card details to simulate payments in the development/test environment:
@@ -119,11 +134,10 @@ You can use the following Razorpay test card details to simulate payments in the
 - **Email:** test@example.com (any email)  
 - **OTP:** Any 4-8 digit number (e.g., 123456)  
 
-> Note: This card only works in Razorpay’s test mode and do not process real payments.
+> Note: This card only works in Razorpay’s test mode and does not process real payments.
 
+---
 
 ## About This Project
 
-This full-stack project is developed for personal learning and demonstration purposes only.
-
-
+This full-stack project is developed as part of a college project for learning and demonstration purposes.
